@@ -1,13 +1,13 @@
 # Summer-Of-Code-2022
 
-Learnt Python from AI Sweigart book
+• Learnt Python from AI Sweigart book
 
-Completed watching five weeks of Andrew Ng's ML course 
+• Completed watching five weeks of Andrew Ng's ML course 
 
-completed intermerdiate assignments 
+• completed intermerdiate assignments 
 
-learnt required python libraries 
+• learnt required python libraries 
 
-completed the given assignment 
+• completed the given assignment 
 
-about to start Andrew Ngs Deep Learning specialisation course 
+• about to start Andrew Ng's Deep Learning specialisation course 
